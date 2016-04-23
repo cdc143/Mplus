@@ -1,6 +1,3 @@
-Christian Daniel
-CPSC 411
-10073726
 
 Code generation for M+. Tested on all test examples in the M+ test folder, as well as a few of my own examples (included in the folder). To compile and run, do make, and then do ./TestMp <<input source file>> <<output code file>>
 
